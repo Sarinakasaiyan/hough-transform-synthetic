@@ -25,3 +25,16 @@ This code is designed to detect lines in a binary image using the Hough Transfor
 
  Conclusion
 Ultimately, this code allows you to identify lines in an image and visualize them on the original picture. This technique is commonly used in image processing and computer vision for shape detection and analysis.
+
+Input :
+<img width="1440" alt="hough_transform_synthetic input1" src="https://github.com/user-attachments/assets/632ae3da-2c3a-476d-8d88-72b3275944eb">
+---
+<img width="1440" alt="hough_transform_synthetic input2" src="https://github.com/user-attachments/assets/a711e1d6-2f4a-4322-aace-abf5def31a41">
+---
+<img width="1440" alt="hough_transform_synthetic input3" src="https://github.com/user-attachments/assets/3c588c5f-2a0a-4ca8-9a09-948c2ff69c0a">
+---
+Output :
+<img width="1440" alt="hough_transform_synthetic output1" src="https://github.com/user-attachments/assets/bfdc9382-f820-490a-b459-d797a4030a4f">
+---
+<img width="1440" alt="hough_transform_synthetic output2" src="https://github.com/user-attachments/assets/e089afe1-4c68-4b38-b8c5-994246e364d6">
+---
